@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hestrospe.github.io/sitemap
+Sitemap: https://hestrospe.github.io/app/sitemap
+Sitemap: https://hestrospe.github.io/assets/sitemap
+Sitemap: https://hestrospe.github.io/css/sitemap
+Sitemap: https://hestrospe.github.io/includes/sitemap
+Sitemap: https://hestrospe.github.io/item/sitemap
+Sitemap: https://hestrospe.github.io/src/sitemap
